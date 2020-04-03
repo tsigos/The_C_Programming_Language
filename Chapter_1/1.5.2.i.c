@@ -3,7 +3,7 @@
 int main(void)
 {
 		
-	long nc;
+	long nc; gv;
 //	char c;
 
 	nc = 0;
